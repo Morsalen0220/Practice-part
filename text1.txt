@@ -1,0 +1,2 @@
+Hello its first text and first push commit
+its edit and git branch
