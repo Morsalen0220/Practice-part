@@ -1,0 +1,8 @@
+*.txt
+!main.txt
+text.txt
+temp/
+x?.js
+main.txt
+.env
+
